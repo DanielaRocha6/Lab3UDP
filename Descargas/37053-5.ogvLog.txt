@@ -1,0 +1,7 @@
+THIS IS A TEST FOR TCP 
+Time log:20191020_075507
+File Name:./Descargas/37053-5.ogv
+File Size:252.0 MB
+Test for client:0.0.0.0/0.0.0.0,37053
+Successfull?:Successful integrity verification transfer.
+Time elapsed in seconds:3.0
