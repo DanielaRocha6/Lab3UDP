@@ -1,0 +1,6 @@
+THIS IS A TEST FOR TCP 
+Time log:20191020_092815
+File Name:./Descargas/47301-4.ogv
+File Size:126.0 MB
+Test for client:0.0.0.0/0.0.0.0,47301
+Successfull?:File integrity compromised. File may be corrupted.;Time elapsed in seconds:3.0
